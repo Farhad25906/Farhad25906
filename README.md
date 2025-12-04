@@ -39,6 +39,6 @@
   <strong style="font-size: 40px;">Github Stats</strong>
 </p>
 <hr>
-<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=Farhad25906&" alt="Farhad25906" /></p>
+<p align="center"><img align="center" src="https://streak-stats.demolab.com/?user=Farhad25906" alt="Farhad25906" /></p>
 
 
