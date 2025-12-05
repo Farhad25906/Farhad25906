@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Farhad+Hossen;Full-Stack+Web+Developer;" />
 </h1>
 
-<p align="center">
-  <a href="https://github.com/Farhad25906"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</p>
 
 ## 👨‍💻 About Me
 
@@ -115,9 +110,6 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 
 <div align="center">
 
-### **📈 Contribution Graph**
-![Snake animation](https://github.com/Farhad25906/Farhad25906/blob/main/contribution-snake/grid.svg)
-
 ### **📊 GitHub Stats**
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Farhad25906&show_icons=true&theme=swift&hide_border=true&count_private=true&include_all_commits=true" />
@@ -127,8 +119,6 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 ### **🔥 Streak Stats**
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhad25906&theme=swift&hide_border=true&fire=DD2727&ring=DD2727" />
 
-### **🏆 GitHub Trophies**
-<img src="https://github-profile-trophy.vercel.app/?username=Farhad25906&theme=swift&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -160,9 +150,8 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 ## 📫 Connect With Me
 <p align="center">
   <a href="mailto:farhadhossen2590@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://linkedin.com/in/farhad-hossen"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="https://portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/farhad-hossen-in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://farhadhossen.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
