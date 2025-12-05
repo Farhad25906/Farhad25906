@@ -109,13 +109,14 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
----
+
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 ### **📈 Contribution Graph**
-![Snake animation](https://raw.githubusercontent.com/Farhad25906/Farhad25906/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Farhad25906/Farhad25906/blob/main/contribution-snake/grid.svg)
 
 ### **📊 GitHub Stats**
 <div>
