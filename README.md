@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="50" align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" align="center">
 </p>
 
 I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engineering. I specialize in MERN stack development and love creating efficient, user-friendly web applications. Always eager to learn new technologies and take on challenging projects!
