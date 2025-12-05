@@ -108,6 +108,8 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 </p>
 
 </div>
+
+---
 ## 📊 GitHub Analytics
 
 <div align="center">
