@@ -7,16 +7,17 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" align="center">
-</p>
-
 I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engineering. I specialize in MERN stack development and love creating efficient, user-friendly web applications. Always eager to learn new technologies and take on challenging projects!
 
 - 🔭 I’m currently working on **MERN stack projects**
 - 🌱 I’m learning **Advanced React patterns & Microservices**
 - 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
+
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJveGlxc28zZWRjMXp6ZDZ0bHN6dGphamJyeXE0eTN5cHYyOTBzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="500" align="center">
+</p>
 
 ---
 ## 🛠️ Tech Stack
