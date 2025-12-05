@@ -16,7 +16,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJveGlxc28zZWRjMXp6ZDZ0bHN6dGphamJyeXE0eTN5cHYyOTBzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="500" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJveGlxc28zZWRjMXp6ZDZ0bHN6dGphamJyeXE0eTN5cHYyOTBzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="300" align="center">
 </p>
 
 ---
