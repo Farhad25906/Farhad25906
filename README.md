@@ -21,7 +21,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 
 ---
 ## 🛠️ Tech Stack
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
   <a href="https://skillicons.dev">
