@@ -21,7 +21,6 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 
 ---
 ## 🛠️ Tech Stack
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -37,9 +36,9 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
       
 ### 🎨 Frontend Development
       
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80">
-</div>
+</div> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -61,9 +60,9 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
       
 ### ⚙️ Backend Development
       
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80">
-</div>
+</div> -->
 
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
