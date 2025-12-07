@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Farhad+Hossen;Full-Stack+Web+Developer;" />
 </h1>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 ## 👨‍💻 About Me
 
@@ -23,7 +23,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 <br>
 
@@ -97,9 +97,9 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 
 ### 🚀 Tools & Deployment
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-</div>
+</div> -->
 
 <br>
 
@@ -121,26 +121,26 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 
 <br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 ## 📊 GitHub Analytics
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 <div align="center">
 
 ### **📊 GitHub Stats**
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Farhad2590&show_icons=true&theme=swift&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad2590&layout=compact&theme=swift&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Farhad25906&show_icons=true&theme=swift&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad25906&layout=compact&theme=swift&hide_border=true&langs_count=8" />
 </div>
 
 ### **🔥 Streak Stats**
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhad2590&theme=swift&hide_border=true&fire=DD2727&ring=DD2727" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhad25906&theme=swift&hide_border=true&fire=DD2727&ring=DD2727" />
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 ## 🎯 Featured Projects
 
