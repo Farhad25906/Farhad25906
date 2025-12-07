@@ -19,7 +19,8 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjJveGlxc28zZWRjMXp6ZDZ0bHN6dGphamJyeXE0eTN5cHYyOTBzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="300" align="center">
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -28,9 +29,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<table align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   <tr>
     <td align="center" width="50%">
       
