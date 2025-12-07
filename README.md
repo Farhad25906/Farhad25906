@@ -130,14 +130,18 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 
 <div align="center">
 
+<div align="center">
+
 ### **📊 GitHub Stats**
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Farhad25906&show_icons=true&theme=swift&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad25906&layout=compact&theme=swift&hide_border=true&langs_count=8" />
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Farhad2590&show_icons=true&theme=swift&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad2590&layout=compact&theme=swift&hide_border=true&langs_count=8" />
+</p>
 
 ### **🔥 Streak Stats**
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhad25906&theme=swift&hide_border=true&fire=DD2727&ring=DD2727" />
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhad2590&theme=swift&hide_border=true&fire=DD2727&ring=DD2727" />
+</p>
 
 </div>
 
