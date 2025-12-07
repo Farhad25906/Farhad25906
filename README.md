@@ -130,21 +130,20 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 
 <div align="center">
 
-<div align="center">
-
 ### **📊 GitHub Stats**
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Farhad2590&show_icons=true&theme=swift&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad2590&layout=compact&theme=swift&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Farhad2590&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad2590&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 </p>
 
 ### **🔥 Streak Stats**
+
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhad2590&theme=swift&hide_border=true&fire=DD2727&ring=DD2727" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=Farhad2590&theme=radical&hide_border=true" />
 </p>
 
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎯 Featured Projects
