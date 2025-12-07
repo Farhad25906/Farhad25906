@@ -133,14 +133,14 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 ### **📊 GitHub Stats**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Farhad2590&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad2590&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Farhad2590&show_icons=true&theme=swift&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Farhad2590&layout=compact&theme=swift&hide_border=true&langs_count=8" />
 </p>
 
 ### **🔥 Streak Stats**
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com/?user=Farhad2590&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhad2590&theme=swift&hide_border=true&fire=DD2727&ring=DD2727" />
 </p>
 
 </div>
