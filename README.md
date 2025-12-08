@@ -73,7 +73,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 <td align="center" width="50%">
 
 ### 🚀 Tools & Deployment
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejY5azBxcDh1c2xneGM0Z2ticnFlMXQ2bXNyYzUzdmk4cXE1d3cwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zmXzTcx2WOGzq759c3/giphy.gif" width="100">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXE4aTdnb3FseHZpdnE2b25jMzBubDU0ZnZtbWM2eTVrczRya2xsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif" width="100">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
