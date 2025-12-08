@@ -50,7 +50,6 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 
 ### ⚙️ Backend Development
 
-</br>
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -66,7 +65,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 <td align="center" width="50%">
 
 ### 🗄️ Database & ORM
-</br>
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
@@ -80,7 +79,6 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 <td align="center" width="50%">
 
 ### 🚀 Tools & Deployment
-</br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
