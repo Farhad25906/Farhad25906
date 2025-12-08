@@ -152,14 +152,14 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 > MERN Stack Digital Wallet System
 > 
 > ![Tech](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tech](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Tech](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) </br>
-> 🔗 **Live Demo:** [ZapWallet](https://zapwallet-client.vercel.app/)
+> 🔗 **Live URL:** [ZapWallet](https://zapwallet-client.vercel.app/)
 
 
 ### **Project 2: TaskTonic**
 > Real-time collaborative task manager
 > 
 > ![Tech](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tech](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Tech](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) </br>
-> 🔗 **Live Demo:** [TaskTonic](https://task-tonic-client.vercel.app/)
+> 🔗 **Live URL:** [TaskTonic](https://task-tonic-client.vercel.app/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
