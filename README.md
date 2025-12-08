@@ -48,7 +48,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 <td align="center" width="50%">
 
 ### ⚙️ Backend Development
-<img src="[https://tenor.com/iacop7K4pDo.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZpNmhla2VyN3l1cGZ5anhpazN6dTVrNjgweGJnN2FzNGFxY3ViayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)" width="100">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZpNmhla2VyN3l1cGZ5anhpazN6dTVrNjgweGJnN2FzNGFxY3ViayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100">
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
