@@ -158,7 +158,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 ### **Project 2: TaskTonic**
 > Real-time collaborative task manager
 > 
-> ![Tech](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tech](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Tech](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+> ![Tech](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tech](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Tech](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)</br>
 > 🔗 **Live Demo:** [TaskTonic](https://task-tonic-client.vercel.app/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
