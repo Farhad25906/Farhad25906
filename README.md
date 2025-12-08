@@ -151,7 +151,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 ### **Project 1: ZapWallet**
 > MERN stack Digital Wallet System
 > 
-> ![Tech](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tech](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Tech](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+> ![Tech](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tech](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Tech](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) </br>
 > 🔗 **Live Demo:** [ZapWaller](https://zapwallet-client.vercel.app/)
 
 
