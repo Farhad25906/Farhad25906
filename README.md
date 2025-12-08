@@ -33,7 +33,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 <td align="center" width="50%">
 
 ### 🎨 Frontend Development
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHExb3JheWtvOW92djNzcmdpcmg0ZTlqazJoZnltajc3dzFqd3llaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vvxP56uvS9S6ADC2BH/giphy.gif" width="100">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
