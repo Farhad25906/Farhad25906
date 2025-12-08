@@ -48,7 +48,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 <td align="center" width="50%">
 
 ### ⚙️ Backend Development
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+<img src="https://tenor.com/iacop7K4pDo.gif" width="100">
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
@@ -73,7 +73,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 <td align="center" width="50%">
 
 ### 🚀 Tools & Deployment
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejY5azBxcDh1c2xneGM0Z2ticnFlMXQ2bXNyYzUzdmk4cXE1d3cwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zmXzTcx2WOGzq759c3/giphy.gif" width="100">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
