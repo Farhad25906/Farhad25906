@@ -115,20 +115,17 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 ## 🎯 Featured Projects
 
 ### **Project 1: ZapWallet**
-> MERN Stack Digital Wallet System
+> MERN Stack Digital Wallet System with Role-Based Dashboards
 > 
-> ![Tech](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tech](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Tech](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) </br>
-> 🔗 **Live URL:** [ZapWallet](https://zapwallet-client.vercel.app/)
+> ![Tech](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tech](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Tech](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Tech](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Tech](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) </br>
+> 🔗 **Live URL:** [ZapWallet](https://zapwallet-client.vercel.app/) | 📦 **Repo:** [Client](https://github.com/Farhad25906/ZapWallet-Client) | [Server](https://github.com/Farhad25906/ZapWallet-Server)
 
 
-### **Project 2: TaskTonic**
-> Real-time collaborative task manager
+### **Project 2: TourNest**
+> Modern Travel & Tour Booking Platform with Subscription System
 > 
-> ![Tech](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tech](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Tech](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) </br>
-> 🔗 **Live URL:** [TaskTonic](https://task-tonic-client.vercel.app/)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+> ![Tech](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tech](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Tech](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Tech](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Tech](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white) </br>
+> 🔗 **Live URL:** [TourNest](https://tour-nest-client.vercel.app/) | 📦 **Repo:** [Client](https://github.com/Farhad25906/TourNest-Client) | [Server](https://github.com/Farhad25906/TourNest-Server)
 ## 💡 Random Dev Quote
 <div align="center">
   
