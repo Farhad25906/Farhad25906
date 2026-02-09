@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=1500, height=500">
+    <title>Farhad Hossen - Swift Theme Banner</title>
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&family=Righteous&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #000000;
+            --terminal-bg: #111111;
+            --border-color: #0070f3;
+            --text-main: #ffffff;
+            --text-dim: #888888;
+            --accent-green: #50e3c2;
+            --accent-blue: #0070f3;
+            --accent-orange: #f5a623;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            width: 1500px;
+            height: 500px;
+            overflow: hidden;
+            background: var(--bg-color);
+            font-family: 'JetBrains Mono', monospace;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .banner-container {
+            width: 1500px;
+            height: 500px;
+            position: relative;
+            display: flex;
+            align-items: center;
+            padding: 0 100px;
+            gap: 80px;
+        }
+
+        .cat-section {
+            flex: 0 0 250px;
+            display: flex;
+            justify-content: center;
+            animation: floatCat 3s ease-in-out infinite;
+        }
+
+        .cat-image {
+            width: 250px;
+            height: 250px;
+            object-fit: contain;
+            filter: drop-shadow(0 0 15px rgba(0, 112, 243, 0.3));
+        }
+
+        @keyframes floatCat {
+            0%, 100% { transform: translateY(0); }
+            50% { transform: translateY(-20px); }
+        }
+
+        .terminal-window {
+            flex: 1;
+            max-width: 900px;
+            background: var(--terminal-bg);
+            border: 2px solid var(--border-color);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 0 30px rgba(0, 112, 243, 0.2);
+        }
+
+        .terminal-header {
+            background: #1a1a1a;
+            padding: 12px 20px;
+            display: flex;
+            align-items: center;
+            gap: 12px;
+            border-bottom: 1px solid #222;
+        }
+
+        .header-dots { display: flex; gap: 8px; }
+        .dot { width: 12px; height: 12px; border-radius: 50%; }
+        .dot.red { background: #ff4d4d; }
+        .dot.yellow { background: #f5a623; }
+        .dot.green { background: #50e3c2; }
+
+        .terminal-title {
+            color: var(--text-dim);
+            font-size: 14px;
+            font-family: 'Righteous', cursive;
+            letter-spacing: 1px;
+        }
+
+        .terminal-body {
+            padding: 20px;
+            font-size: 19px;
+            line-height: 1.6;
+        }
+
+        .line {
+            display: flex;
+            margin-bottom: 8px;
+            opacity: 0;
+            animation: fadeIn 0.3s ease-out forwards;
+        }
+
+        .output { color: var(--text-main); margin-left: 10px; }
+        .accent { 
+            color: var(--accent-blue); 
+            font-family: 'Righteous', cursive;
+            font-size: 21px;
+        }
+
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(5px); } to { opacity: 1; transform: translateY(0); } }
+
+        /* Sequence Timing */
+        .line-2 { animation-delay: 0.4s; }
+        .line-3 { animation-delay: 1.4s; }
+        .line-5 { animation-delay: 2.8s; }
+        .line-6 { animation-delay: 3.8s; }
+        .line-8 { animation-delay: 5.2s; }
+        .line-9 { animation-delay: 6.2s; }
+
+        .cursor {
+            display: inline-block;
+            width: 12px;
+            height: 22px;
+            background: var(--accent-blue);
+            margin-left: 6px;
+            animation: blink 1s step-end infinite;
+            vertical-align: middle;
+        }
+        @keyframes blink { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } }
+    </style>
+</head>
+<body>
+    <div class="banner-container">
+        <!-- Free mascot -->
+        <div class="cat-section">
+            <img src="Cat.webp" alt="Cat Mascot" class="cat-image">
+        </div>
+
+        <div class="terminal-window">
+            <div class="terminal-header">
+                <div class="header-dots">
+                    <div class="dot red"></div>
+                    <div class="dot yellow"></div>
+                    <div class="dot green"></div>
+                </div>
+                <div class="terminal-title">farhad@github: ~</div>
+            </div>
+            <div class="terminal-body">
+                <!-- Q1 -->
+                <!-- <div class="line line-1"><span class="prompt">➜</span><span class="command">cat current_location.sh</span></div> -->
+                <div class="line line-2"><span class="output">🐱 Meow! Where I am?</span></div>
+                <div class="line line-3"><span class="output accent">📍 In Farhad's Coding Hub</span></div>
+
+                <!-- Q2 -->
+                <!-- <div class="line line-4"><span class="prompt">➜</span><span class="command">whoami</span></div> -->
+                <div class="line line-5"><span class="output">🐱 Who is Farhad?</span></div>
+                <div class="line line-6"><span class="output accent">👨‍💻 A Full Stack Developer</span></div>
+
+                <!-- Q3 -->
+                <!-- <div class="line line-7"><span class="prompt">➜</span><span class="command">what_next.sh</span></div> -->
+                <div class="line line-8"><span class="output">🐱 What I Will Do Now?</span></div>
+                <div class="line line-9">
+                    <span class="output accent">🚀 Check Some Awesome Projects Made By Farhad</span>
+                    <span class="cursor"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
