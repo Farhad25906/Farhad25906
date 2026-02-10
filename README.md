@@ -15,11 +15,11 @@
   />
 </h1>
 
-<p align="center">
+<!-- <p align="center">
   <b style="color:#36E2FF">
     Crafting clean interfaces & scalable systems
   </b>
-</p>
+</p> -->
 
 ## 👨‍💻 About Me
 
@@ -36,8 +36,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<h2 align="center">🛠️ Tech Stack</h2>
-
+## 🛠️ Tech Stack
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 <br>
