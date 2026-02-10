@@ -1,11 +1,25 @@
-![Header](./Banner.gif "Header")
+![Header](./banner.png)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Farhad+Hossen;Full-Stack+Web+Developer;" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com
+    ?font=Righteous
+    &size=36
+    &center=true
+    &vCenter=true
+    &width=520
+    &height=70
+    &duration=4000
+    &color=36E2FF
+    &lines=Hi+There!+👋;I'm+Farhad+Hossen;Full-Stack+Web+Developer;"
+  />
 </h1>
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
+<p align="center">
+  <b style="color:#36E2FF">
+    Crafting clean interfaces & scalable systems
+  </b>
+</p>
 
 ## 👨‍💻 About Me
 
@@ -33,6 +47,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 <td align="center" width="50%">
 
 ### 🎨 Frontend Development
+
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHExb3JheWtvOW92djNzcmdpcmg0ZTlqazJoZnltajc3dzFqd3llaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vvxP56uvS9S6ADC2BH/giphy.gif" width="100">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,6 +63,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 <td align="center" width="50%">
 
 ### ⚙️ Backend Development
+
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHZpNmhla2VyN3l1cGZ5anhpazN6dTVrNjgweGJnN2FzNGFxY3ViayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="100">
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -60,6 +76,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 <td align="center" width="50%">
 
 ### 🗄️ Database & ORM
+
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNmNnphMThwbWRscjRla3BqNzF0Y2o2Z3UwZG5xOXlhbWg4Y2hkdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pOEbLRT4SwD35IELiQ/giphy.gif" width="100">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -73,6 +90,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 <td align="center" width="50%">
 
 ### 🚀 Tools & Deployment
+
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXE4aTdnb3FseHZpdnE2b25jMzBubDU0ZnZtbWM2eTVrczRya2xsdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/R5dspTNJBVL51hiSN7/giphy.gif" width="100">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -115,18 +133,21 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 ## 🎯 Featured Projects
 
 ### **Project 1: ZapWallet**
+
 > MERN Stack Digital Wallet System with Role-Based Dashboards
-> 
+>
 > ![Tech](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Tech](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Tech](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Tech](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Tech](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white) </br>
 > 🔗 **Live URL:** [ZapWallet](https://zapwallet-client.vercel.app/) | 📦 **Repo:** [Client](https://github.com/Farhad25906/ZapWallet-Client) | [Server](https://github.com/Farhad25906/ZapWallet-Server)
 
-
 ### **Project 2: TourNest**
+
 > Modern Travel & Tour Booking Platform with Subscription System
-> 
+>
 > ![Tech](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![Tech](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![Tech](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![Tech](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=Prisma&logoColor=white) ![Tech](https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe&logoColor=white) </br>
 > 🔗 **Live URL:** [TourNest](https://tour-nest-client.vercel.app/) | 📦 **Repo:** [Client](https://github.com/Farhad25906/TourNest-Client) | [Server](https://github.com/Farhad25906/TourNest-Server)
+
 ## 💡 Random Dev Quote
+
 <div align="center">
   
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=swift)
@@ -136,6 +157,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📫 Connect With Me
+
 <p align="center">
   <a href="mailto:farhadhossen2590@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/farhad-hossen-in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
