@@ -1,18 +1,7 @@
 ![Header](./Banner.png)
 
 <h1 align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com
-    ?font=Righteous
-    &size=36
-    &center=true
-    &vCenter=true
-    &width=520
-    &height=70
-    &duration=4000
-    &color=36E2FF
-    &lines=Hi+There!+👋;I'm+Farhad+Hossen;Full-Stack+Web+Developer;"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=36&center=true&vCenter=true&width=520&height=70&duration=4000&color=36E2FF&lines=Hi+There!+👋;I'm+Farhad+Hossen;Full-Stack+Web+Developer;" />
 </h1>
 
 <!-- <p align="center">
@@ -37,6 +26,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🛠️ Tech Stack
+
 <!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"> -->
 
 <br>
