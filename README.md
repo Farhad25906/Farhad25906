@@ -113,7 +113,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 ### **🔥 Streak Stats**
 
 <p align="center">
-<img src="https://ghstats.dev/api/card?username=Farhad25906&theme=light&show_ring=false&border_radius=0&custom_title=Farhad+Hossen+Contribution+Journey&size=compact&hide=stars%2Chours%2Cfollowers%2Crepos%2Cavg%2Ctrend%2Cprs%2Cissues%2Cweek%2Cactive_day%2Cgrade" alt="GitHub Stats Card" />
+<img src="https://ghstats.dev/api/card?username=Farhad25906&theme=light&show_ring=false&border_radius=0&custom_title=Farhad+Hossen+Contribution+Journey&size=compact&hide=stars%2Chours%2Crepos%2Cavg%2Ctrend%2Cprs%2Cissues%2Cweek%2Cactive_day%2Cgrade%2Ccommits" alt="GitHub Stats Card" />
 </p>
 
 </div>
