@@ -113,7 +113,7 @@ I'm a passionate Full-Stack Developer with a B.Sc. in Computer Science and Engin
 ### **🔥 Streak Stats**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Farhad25906&theme=swift&hide_border=true&fire=DD2727&ring=DD2727" />
+<img src="https://ghstats.dev/api/card?username=Farhad25906&theme=light&show_ring=false&border_radius=0&size=compact&hide=stars%2Chours%2Cfollowers%2Crepos%2Cavg%2Ctrend%2Cprs%2Cissues%2Cweek%2Cactive_day%2Cgrade" alt="GitHub Stats Card" />
 </p>
 
 </div>
